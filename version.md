@@ -1,4 +1,4 @@
-@title-image:> ["background-image: url(images/title-version.png);"]
+@title-image:> ["background-image: url(images-git/title-version.png);"]
 
 @line2:> 
 
@@ -8,7 +8,6 @@
 ---
 - サイトの更新
   - 形式の変更
----
 
 :::::@
 
@@ -21,6 +20,5 @@
   - 最初に公開したバージョン
   - プレーンなまわり将棋
   - グレイブのみ、ミストなし
----
 
 :::::@

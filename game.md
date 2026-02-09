@@ -1,4 +1,4 @@
-@title-image:> ["background-image: url(images/title-game.png);"]
+@title-image:> ["background-image: url(images-git/title-game.png);"]
 
 @line2:> 
 
