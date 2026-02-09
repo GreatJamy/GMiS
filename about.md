@@ -1,6 +1,6 @@
 @title-image: ["images/title-about.png"]
 
-@line2:
+@line2: 
 
 ![](images/banner.png)
 
