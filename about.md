@@ -1,4 +1,4 @@
-@title: ["images/title-about.png"]
+@title-image: ["images/title-about.png"]
 
 ---
 
